@@ -1,3 +1,8 @@
-# tsmc_predictor
+**Project Title:** tsmc_predictor
 
-A machine learning model designed to forecast the stock price of Taiwan Semiconductor Manufacturing Company for the next day using historical data. The process involves downloading and cleaning the data, training and backtesting the model, and incorporating additional predictors to enhance accuracy.
+**Description:**  
+Developed a machine learning model to forecast the stock price of Taiwan Semiconductor Manufacturing Company (TSMC) for the next day using historical data. The project encompasses data acquisition, cleaning, model training, and backtesting, with a focus on integrating additional predictors to enhance predictive accuracy.
+
+**Technologies:**  
+Languages: Python  
+Libraries: yfinance, pandas, scikit-learn, matplotlib
